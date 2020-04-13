@@ -1,5 +1,9 @@
 # tea-for-it
-Personal blog 
+Blog 
+
+`$ hugo server -D`
+
+`$ hugo`
 
 `$ cd public` 
 
