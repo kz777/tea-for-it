@@ -1,5 +1,6 @@
 # tea-for-it
 Personal blog 
-`$ cd public`
+`$ cd public` 
+
 `$ aws s3 sync . s3://bucket-name --delete`
 
