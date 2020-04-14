@@ -1,8 +1,11 @@
 ## Basic Configuration
-baseurl = "http://teaforit.com.s3-website-us-east-1.amazonaws.com/"
+# baseurl = "http://teaforit.com.s3-website-us-east-1.amazonaws.com/"
+baseurl = "https://teaforit.com/"
+# baseurl = "/"
 languageCode = "en"
 title = "Tea for IT"
 theme = "hyde-hyde"
+# relativeURLs = "true"
 ##### The Change Starts
 
 
@@ -20,7 +23,7 @@ theme = "hyde-hyde"
 [params]
     author = "Author"
     title = "Title"
-    # description = "..."
+    description = "☁️ AWS ☁️ GCP☁️ ☁️ AZURE ☁️"
     authorimage = "/img/tea.png"
     dateformat = "Jan 2, 2006"
 
