@@ -1,2 +1,11 @@
 # tea-for-it
-Personal blog '''$ cd public""
+Blog 
+
+`$ hugo server -D`
+
+`$ hugo`
+
+`$ cd public` 
+
+`$ aws s3 sync . s3://bucket-name --delete`
+
