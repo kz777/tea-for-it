@@ -5,7 +5,7 @@ baseurl = "https://teaforit.com/"
 languageCode = "en"
 title = "Tea for IT"
 theme = "hyde-hyde"
-# relativeURLs = "true"
+relativeURLs = "true"
 ##### The Change Starts
 
 
@@ -28,7 +28,7 @@ theme = "hyde-hyde"
     dateformat = "Jan 2, 2006"
 
     # sidebar, copyright & license
-    copyright = "Tea For IT☕"
+    copyright = "☕Tea For IT"
     since = 2019
     license = ""
     licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
