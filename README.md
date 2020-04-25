@@ -7,5 +7,5 @@ Blog
 
 `$ cd public` 
 
-`$ aws s3 sync . s3://bucket-name --delete`
+`$ aws s3 sync . s3://teaforit.com --delete --exclude "about/index.html"`
 
